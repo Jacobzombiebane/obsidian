@@ -1,0 +1,12 @@
+[
+    {
+        "id": "script_hello",
+        "name": "Hello World",
+        "description": "Safe starter script",
+        "code": "print('Hello from Obsidian UI')",
+        "createdAt": 1778982666,
+        "updatedAt": 1778982666,
+        "lastStatus": "idle",
+        "lastOutput": ""
+    }
+]

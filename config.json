@@ -1,0 +1,200 @@
+{
+    "theme": "custom black and white",
+    "crystal": {
+        "master_enabled": true,
+        "enabled": false,
+        "obsidian_slot": "1",
+        "crystal_slot": "2",
+        "place_to_break_delay_min": 80,
+        "place_to_break_delay_max": 110,
+        "cps": 10,
+        "hold_to_repeat": true
+    },
+    "anchor": {
+        "enabled": false,
+        "activator_key": "r",
+        "anchor_slot": "4",
+        "glowstone_slot": "c",
+        "totem_slot": "mouse5",
+        "delay_min": 40,
+        "delay_max": 60,
+        "anchor_count_max": 1,
+        "glowstone_count_max": 1,
+        "totem_count_max": 1,
+        "hold_to_repeat": true
+    },
+    "util": {
+        "xp_enabled": false,
+        "xp_key": "x",
+        "xp_slot": "6",
+        "xp_cps": 20,
+        "gapple_enabled": false,
+        "gapple_key": "g",
+        "gapple_slot": "7"
+    },
+    "sword": {
+        "stun_enabled": false,
+        "activator_key": "f",
+        "axe_slot": "3",
+        "delay_min": 40,
+        "delay_max": 60
+    },
+    "shield_breaker": {
+        "enabled": false,
+        "activator_key": "g",
+        "axe_slot": "3",
+        "sword_slot": "1",
+        "delay_min": 40,
+        "delay_max": 60
+    },
+    "stun_slam": {
+        "enabled": false,
+        "activator_key": "h",
+        "axe_slot": "3",
+        "mace_slot": "4",
+        "sword_slot": "1",
+        "return_to_sword": true,
+        "delay_min": 40,
+        "delay_max": 60
+    },
+    "breach_swap": {
+        "enabled": false,
+        "activator_key": "j",
+        "swap_slot": "4",
+        "sword_slot": "1",
+        "delay_min": 40,
+        "delay_max": 80
+    },
+    "cart": {
+        "enabled": false,
+        "activator_key": "k",
+        "bow_slot": "5",
+        "rail_slot": "6",
+        "cart_slot": "7",
+        "rail_delay_min": 10,
+        "rail_delay_max": 30,
+        "cart_delay_min": 10,
+        "cart_delay_max": 50
+    },
+    "trap_cart": {
+        "enabled": false,
+        "activator_key": "l",
+        "rail_slot": "6",
+        "cart_slot": "7",
+        "fire_slot": "8",
+        "crossbow_slot": "9",
+        "rail_delay_min": 30,
+        "rail_delay_max": 50,
+        "cart_delay_min": 30,
+        "cart_delay_max": 50,
+        "cart_click_count": 3,
+        "look_down_min": 8,
+        "look_down_max": 12,
+        "look_delay_min": 20,
+        "look_delay_max": 40,
+        "fire_delay_min": 20,
+        "fire_delay_max": 40,
+        "shoot_delay_min": 20,
+        "shoot_delay_max": 40,
+        "look_up_min": 120,
+        "look_up_max": 130
+    },
+    "pearl_catch": {
+        "enabled": false,
+        "activator_key": "x",
+        "pearl_slot": "3",
+        "wind_slot": "4",
+        "original_slot": "1",
+        "look_up_min": 60,
+        "look_up_max": 80,
+        "action_delay_min": 30,
+        "action_delay_max": 60
+    },
+    "rc4": {
+        "enabled": false,
+        "strength": 97,
+        "toggle_key": "f3"
+    },
+    "smg12": {
+        "enabled": true,
+        "strength": 90,
+        "toggle_key": "f1"
+    },
+    "f2": {
+        "enabled": false,
+        "strength": 100,
+        "toggle_key": "f2"
+    },
+    "vector": {
+        "enabled": false,
+        "strength": 82,
+        "toggle_key": ""
+    },
+    "uzk50gi": {
+        "enabled": false,
+        "strength": 85,
+        "toggle_key": ""
+    },
+    "c70": {
+        "enabled": false,
+        "strength": 100,
+        "toggle_key": ""
+    },
+    "turnflick": {
+        "enabled": false,
+        "activator_key": "mouse5",
+        "direction": "right",
+        "repeats": 97,
+        "pixels": 300
+    },
+    "scizo": {
+        "activator_key": "mouse4",
+        "random_look_on": false,
+        "thankyou_on": true,
+        "inspect_hell_on": false,
+        "spectator_hell_on": false,
+        "thankyou_interval": 10
+    },
+    "fast_clicker": {
+        "enabled": false,
+        "delay_ms": 20,
+        "offset_ms": 6
+    },
+    "sensitivity": {
+        "horizontal": 13,
+        "vertical": 13
+    },
+    "blocklist": {
+        "blocked": [
+            "m"
+        ]
+    },
+    "overlay": {
+        "enabled": true,
+        "click_through": true,
+        "compact_mode": false,
+        "show_slot_label": false,
+        "show_keybinds": false,
+        "glow": true,
+        "pulse_icon": true,
+        "rainbow_accent": false,
+        "opacity": 62,
+        "scale": 86,
+        "margin": 4,
+        "primary_icon_path": "",
+        "secondary_icon_path": ""
+    },
+    "client_overlay": {
+        "enabled": true,
+        "toggle_key": "f7",
+        "compact_width": 1225,
+        "compact_height": 574,
+        "start_hidden": false,
+        "keep_on_top": true
+    },
+    "favorites": [
+        "kali smg",
+        "k1a",
+        "m4x"
+    ]
+}

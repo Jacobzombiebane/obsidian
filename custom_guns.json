@@ -1,0 +1,322 @@
+[
+    {
+        "enabled": false,
+        "strength": 94,
+        "toggle_key": "f4",
+        "name": "mpx",
+        "badge": "MPX",
+        "dy": 5.7,
+        "dx": 0.0,
+        "slot_key": 1
+    },
+    {
+        "enabled": false,
+        "strength": 97,
+        "toggle_key": "",
+        "name": "arx200",
+        "badge": "ARX",
+        "dy": 4.9,
+        "dx": -0.3,
+        "slot_key": 1
+    },
+    {
+        "enabled": false,
+        "strength": 79,
+        "toggle_key": "",
+        "name": "ak-12",
+        "badge": "AK",
+        "dy": 16.0,
+        "dx": -0.5,
+        "slot_key": 1
+    },
+    {
+        "enabled": false,
+        "strength": 100,
+        "toggle_key": "",
+        "name": "m762",
+        "badge": "762",
+        "dy": 15.0,
+        "dx": 0.5,
+        "slot_key": 1
+    },
+    {
+        "enabled": false,
+        "strength": 97,
+        "toggle_key": "",
+        "name": "C7E",
+        "badge": "C7E",
+        "dy": 16.0,
+        "dx": -0.3,
+        "slot_key": 1
+    },
+    {
+        "enabled": false,
+        "strength": 97,
+        "toggle_key": "",
+        "name": "F90",
+        "badge": "F90",
+        "dy": 16.0,
+        "dx": 0.0,
+        "slot_key": 1
+    },
+    {
+        "enabled": false,
+        "strength": 94,
+        "toggle_key": "",
+        "name": "SC3000K",
+        "badge": "S3K",
+        "dy": 7.0,
+        "dx": -1.0,
+        "slot_key": 1
+    },
+    {
+        "enabled": false,
+        "strength": 94,
+        "toggle_key": "",
+        "name": "POF-9",
+        "badge": "POF",
+        "dy": 5.0,
+        "dx": 0.0,
+        "slot_key": 1
+    },
+    {
+        "enabled": false,
+        "strength": 79,
+        "toggle_key": "",
+        "name": "6P41",
+        "badge": "P41",
+        "dy": 7.5,
+        "dx": -0.5,
+        "slot_key": 1
+    },
+    {
+        "enabled": false,
+        "strength": 100,
+        "toggle_key": "",
+        "name": "LMG-E",
+        "badge": "LMG",
+        "dy": 11.0,
+        "dx": -1.0,
+        "slot_key": 1
+    },
+    {
+        "enabled": false,
+        "strength": 100,
+        "toggle_key": "",
+        "name": "416-C",
+        "badge": "416",
+        "dy": 7.5,
+        "dx": -0.2,
+        "slot_key": 1
+    },
+    {
+        "enabled": false,
+        "strength": 100,
+        "toggle_key": "",
+        "name": "Mx4",
+        "badge": "MX4",
+        "dy": 7.0,
+        "dx": 0.5,
+        "slot_key": 1
+    },
+    {
+        "enabled": false,
+        "strength": 100,
+        "toggle_key": "",
+        "name": "scorpion",
+        "badge": "EVO",
+        "dy": 8.0,
+        "dx": 1.5,
+        "slot_key": 1
+    },
+    {
+        "enabled": false,
+        "strength": 97,
+        "toggle_key": "",
+        "name": "p90",
+        "badge": "P90",
+        "dy": 7.5,
+        "dx": 0.0,
+        "slot_key": 1
+    },
+    {
+        "enabled": false,
+        "strength": 100,
+        "toggle_key": "",
+        "name": "aug a3",
+        "badge": "AUG",
+        "dy": 5.0,
+        "dx": 0.5,
+        "slot_key": 1
+    },
+    {
+        "enabled": false,
+        "strength": 100,
+        "toggle_key": "",
+        "name": "oryx gun (t5smg)",
+        "badge": "ORX",
+        "dy": 4.7,
+        "dx": 0.0,
+        "slot_key": 1
+    },
+    {
+        "enabled": false,
+        "strength": 100,
+        "toggle_key": "",
+        "name": "commando 9",
+        "badge": "CM9",
+        "dy": 4.5,
+        "dx": 0.0,
+        "slot_key": 1
+    },
+    {
+        "enabled": false,
+        "strength": 100,
+        "toggle_key": "",
+        "name": "smgsc9 or whatever its for clash",
+        "badge": "SM9",
+        "dy": 7.5,
+        "dx": 0.0,
+        "slot_key": 2
+    },
+    {
+        "enabled": false,
+        "strength": 100,
+        "toggle_key": "",
+        "name": "mp5",
+        "badge": "MP5",
+        "dy": 4.0,
+        "dx": -0.1,
+        "slot_key": 1
+    },
+    {
+        "enabled": false,
+        "strength": 100,
+        "toggle_key": "",
+        "name": "l85a2",
+        "badge": "L85",
+        "dy": 7.8,
+        "dx": 1.3,
+        "slot_key": 1
+    },
+    {
+        "enabled": false,
+        "strength": 100,
+        "toggle_key": "",
+        "name": "ar33",
+        "badge": "AR3",
+        "dy": 10.4,
+        "dx": 0.0,
+        "slot_key": 1
+    },
+    {
+        "enabled": false,
+        "strength": 100,
+        "toggle_key": "",
+        "name": "g36c",
+        "badge": "G36",
+        "dy": 12.5,
+        "dx": 0.0,
+        "slot_key": 1
+    },
+    {
+        "enabled": false,
+        "strength": 100,
+        "toggle_key": "",
+        "name": "556xi",
+        "badge": "556",
+        "dy": 8.5,
+        "dx": 1.3,
+        "slot_key": 1
+    },
+    {
+        "enabled": false,
+        "strength": 100,
+        "toggle_key": "",
+        "name": "c8-sfw",
+        "badge": "C8",
+        "dy": 13.1,
+        "dx": 0.0,
+        "slot_key": 1
+    },
+    {
+        "enabled": false,
+        "strength": 100,
+        "toggle_key": "",
+        "name": "MK17",
+        "badge": "M17",
+        "dy": 6.5,
+        "dx": 1.0,
+        "slot_key": 1
+    },
+    {
+        "enabled": false,
+        "strength": 100,
+        "toggle_key": "",
+        "name": "9x9",
+        "badge": "9X9",
+        "dy": 5.2,
+        "dx": -0.5,
+        "slot_key": 1
+    },
+    {
+        "enabled": false,
+        "strength": 100,
+        "toggle_key": "",
+        "name": "SMG-11",
+        "badge": "S11",
+        "dy": 8.1,
+        "dx": 0.8,
+        "slot_key": 2
+    },
+    {
+        "enabled": false,
+        "strength": 100,
+        "toggle_key": "",
+        "name": "f2 1x",
+        "badge": "F2",
+        "dy": 8.0,
+        "dx": -0.6,
+        "slot_key": 1
+    },
+    {
+        "enabled": false,
+        "strength": 80,
+        "toggle_key": "",
+        "name": "kali smg",
+        "badge": "SMG",
+        "dy": 5.5,
+        "dx": 0.0,
+        "slot_key": 2
+    },
+    {
+        "enabled": false,
+        "strength": 100,
+        "toggle_key": "",
+        "name": "raper",
+        "badge": "RAP",
+        "dy": 7.1,
+        "dx": -1.0,
+        "slot_key": 2
+    },
+    {
+        "enabled": false,
+        "strength": 97,
+        "toggle_key": "",
+        "name": "k1a",
+        "badge": "K1A",
+        "dy": 5.7,
+        "dx": -0.6,
+        "slot_key": 1
+    },
+    {
+        "enabled": false,
+        "strength": 100,
+        "toggle_key": "f6",
+        "name": "m4x",
+        "badge": "M4X",
+        "dy": 6.5,
+        "dx": 0.5,
+        "slot_key": 1
+    }
+]
